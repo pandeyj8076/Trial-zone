@@ -1,3 +1,3 @@
 # Trial-zone
 hello everyone
-this is trail zone where we can practice to do work
+this is trial zone where we can practice to do work
